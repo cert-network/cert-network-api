@@ -1,1 +1,0 @@
-* [Drone CI](https://droneci.nextzy.me/nextzy_mobile/dcen-wallet-backend)
