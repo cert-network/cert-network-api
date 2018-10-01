@@ -1,6 +1,6 @@
 # Cert network backend
 
-The cert-network smart contract written in node with Hapi.js
+The cert-network backend written in node with Hapi.js
 
 ## Getting Started
 
